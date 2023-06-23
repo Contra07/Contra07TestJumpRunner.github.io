@@ -1,3 +1,1 @@
-# Contra07TestJumpRunner.github.io
-
-123
+# Тест раннера на Canvas
